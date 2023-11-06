@@ -11,3 +11,7 @@ header {
     font-size: 32px;
     border-bottom: 2px solid #DDF2FD;
 }
+
+section {
+    background-image: linear-gradient(#427D9D, #9BBEC8);
+}
